@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @uhafsa
-- 👀 I’m interested in DevOps.
+- 👋 Hi, I’m Umme Hafsa.
+- 👀 I’m interested in DevOps and all its tools.
 - 🌱 I’m currently learning AWS DevOps.
 - 📫 How to reach me :linkedin/ummehafsa27
 
