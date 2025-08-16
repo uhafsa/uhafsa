@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Umme Hafsa.
-- 👀 I’m interested in DevOps and all its tools.
+- 👀 I’m interested in Cloud Computing.
 - Technical skills : Linux, Python, AWS (EC2,VPC,RDS,Lambda), DevOps(Git,Maven,Jenkins,Docker,Kubernetes,Terraform)
 - 📫 How to reach me :linkedin/ummehafsa27
 
